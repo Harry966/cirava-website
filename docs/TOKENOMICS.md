@@ -63,5 +63,5 @@ The Cirava treasury and allocation Safes use three signers and require 2-of-3 si
 
 The full CIRV allocation is publicly verifiable on Base mainnet.
 
-The CIRV token contract and Tean Vesting contract have been source verified.
+The CIRV token contract and Team Vesting contract have been source verified.
 
